@@ -1,0 +1,65 @@
+.body-contacto {
+    width: 100vw;
+
+    height: 150vh,  !important;
+    background-color: rgb(15, 18, 15);
+}
+
+
+
+#footer_contacto {
+    height: 15vh;
+    min-width: 100vw;
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+
+.animate__hinge {
+    animation-delay: 3s;
+    animation-fill-mode: both;
+}
+
+
+#formulario_general {
+    font-family:$fontSausage;
+    ;
+    padding-top: 25%;
+    background-color:$colorFormulario;
+    height: 63vh;
+
+}
+
+#formulario_nombre {
+    border-radius: 30px solid black,  !important;
+    margin: 30px solid black;
+
+}
+#no {
+    display: block;
+    text-align: center;
+
+}
+
+.btn-envia1 {
+    padding: 6px 12px;
+    border: 3px solid transparent;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0c061b;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: rgba(255, 215, 196, 0.562);
+    ;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+
+}
